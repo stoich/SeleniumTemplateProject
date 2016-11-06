@@ -1,5 +1,5 @@
 # SeleniumTemplateProject
-When you need to setup a C# Selenium in two seconds...
+When you need to setup a Selenium C# in two seconds...
 
 Prerequisite: Visual Studio 2015 installed locally
 
